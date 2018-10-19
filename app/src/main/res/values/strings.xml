@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Desafio-android</string>
+
+    <!-- Activity Main -->
+    <string name="user_name">User Name</string>
+    <string name="repository_name">Repository Name</string>
+    <string name="description_repository">Description Repository</string>
+    <string name="stars">Stars</string>
+    <string name="forks">Forks</string>
+
+    <!-- Activity Repository -->
+    <string name="user_login">User Login</string>
+    <string name="title_pull">Title Pull</string>
+    <string name="body_pull">Body Pull</string>
+</resources>
